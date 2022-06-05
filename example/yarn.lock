@@ -5342,10 +5342,10 @@ react-is@^16.8.1:
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
 react-native-appodeal@../:
-  version "2.11.0"
+  version "2.11.1"
 
 "react-native-appodeal@file:..":
-  version "2.11.0"
+  version "2.11.1"
 
 react-native-codegen@^0.0.7:
   version "0.0.7"
